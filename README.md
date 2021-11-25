@@ -1,4 +1,4 @@
-### <samp>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Franco Piergallini Guida. </samp>
+## <samp>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Franco Piergallini Guida. </samp>
 
 
 <p align="center">
@@ -8,16 +8,12 @@
   <a href="https://www.linkedin.com/in/franco-sebastian-piergallini-guida-42456b63/" target="_blank"><img alt="LinkedIn profile" src="https://img.shields.io/twitter/url?label=Franco%20Piergallini%20Guida&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ffranco-sebastian-piergallini-guida-42456b63%2F"/></a>
 </p>
 
-- <details>
-  <summary>
-    I'm currently working at (VU Security)[https://www.vusecurity.com/en] as a Security Researcher.
-  </summary>
-  
-  <p align="center">
-        
-  </p>
+### 🧑‍💻 I'm currently at [VU Security](https://www.vusecurity.com/en) as a Security Researcher.
 
-  </details>
+#### What I'm up to
+- :chart_with_downwards_trend: Detection and interpretation of fraudulent transactions with a machine learning approach using [FastApi](https://fastapi.tiangolo.com/), [scikit-learn](https://scikit-learn.org/stable/index.html), [XGBoost](https://xgboost.ai/), [LIME](https://github.com/marcotcr/lime), [Celery](https://docs.celeryproject.org/en/stable/), [Pandas](https://pandas.pydata.org/), [Numpy](https://numpy.org/).
+- :microscope: Gathering images from the internet massively using [Selenium](https://www.selenium.dev/), [FastApi](https://fastapi.tiangolo.com/), [Celery](https://docs.celeryproject.org/en/stable/).
+- :man: Face recognition, face verification, face alignment, etc.
 
 
 <!--

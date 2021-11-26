@@ -15,19 +15,27 @@
 - :microscope:  Gathering images from the internet massively using [Selenium](https://www.selenium.dev/), [FastApi](https://fastapi.tiangolo.com/), [Celery](https://docs.celeryproject.org/en/stable/).
 - :man:  Face recognition, face verification, face alignment, etc.
 ****
-#### Blog posts
-
-
+<details>
+    <summary> <samp>📝#### Recent blog posts</samp></summary>
+<br />
+:es: **Spanish**
+<br />
+[Cómo engañar a las apps que usan Deep Learning para la detección de melanomas](https://empresas.blogthinkbig.com/como-enganar-apps-deep-learning-deteccion-melanomas/)
+[Las primeras vulnerabilidades oficiales en Machine Learning, así, en general](https://empresas.blogthinkbig.com/primeras-vulnerabilidades-oficiales-machine-learning-general/)
+[Pensando en ataques a WAFs basados en Machine Learning](https://empresas.blogthinkbig.com/pensando-ataques-wafs-basados-machine-learning/)
+[Adversarial Attacks, el enemigo de la inteligencia artificial (II)](https://empresas.blogthinkbig.com/adversarial-attacks-enemigo-inteligencia-artificial-2/)
+[Adversarial Attacks, el enemigo de la inteligencia artificial](https://empresas.blogthinkbig.com/adversarial-attacks-enemigo-inteligencia-artificial/)
+<br />
+:es: **Spanish** Personal blog
+<br />
+[Generación de datos artificiales (Data Augmentation)](https://franspg.wordpress.com/2020/01/27/generacion-de-datos-artificiales-data-augmentation/)
+[Inteligencia artificial para contrarrestar a la inteligencia artificial (DeepFake)](https://franspg.wordpress.com/2020/01/22/inteligencia-artificial-para-contrarrestar-a-la-inteligencia-artificial-deepfake/)
+[Ciencia de datos aplicado a la astrofísica](https://franspg.wordpress.com/2019/11/09/ciencia-de-datos-aplicado-a-la-astrofisica/)
+[Analizando los subtes de Buenos Aires](https://franspg.wordpress.com/2019/06/28/analizando-los-subtes-de-buenos-aires/)
 
 <!--
 
 
-https://github.com/markdown-templates/markdown-emojis/blob/master/README.md
-https://shields.io/category/social
-
-https://github.com/guilatrova/guilatrova
-https://github.com/dunglas#-check-out-what-im-currently-working-on
-https://github.com/shivammathur/shivammathur/blob/master/README.md
 **FranSPG/FranSPG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

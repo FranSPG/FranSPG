@@ -32,7 +32,7 @@
 - [Inteligencia artificial para contrarrestar a la inteligencia artificial (DeepFake)](https://franspg.wordpress.com/2020/01/22/inteligencia-artificial-para-contrarrestar-a-la-inteligencia-artificial-deepfake/)
 - [Ciencia de datos aplicado a la astrofísica](https://franspg.wordpress.com/2019/11/09/ciencia-de-datos-aplicado-a-la-astrofisica/)
 - [Analizando los subtes de Buenos Aires](https://franspg.wordpress.com/2019/06/28/analizando-los-subtes-de-buenos-aires/)
-
+</details>
 <!--
 
 

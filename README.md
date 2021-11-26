@@ -11,15 +11,15 @@
 ### 🧑‍💻 I'm currently at [VU Security](https://www.vusecurity.com/en).
 ****
 #### What I'm working on
-- :chart_with_downwards_trend:  Detection and interpretation of fraudulent transactions with a machine learning approach using [FastApi](https://fastapi.tiangolo.com/), [scikit-learn](https://scikit-learn.org/stable/index.html), [XGBoost](https://xgboost.ai/), [LIME](https://github.com/marcotcr/lime), [Celery](https://docs.celeryproject.org/en/stable/), [Pandas](https://pandas.pydata.org/), [Numpy](https://numpy.org/).
-- :microscope:  Gathering images from the internet massively using [Selenium](https://www.selenium.dev/), [FastApi](https://fastapi.tiangolo.com/), [Celery](https://docs.celeryproject.org/en/stable/).
-- :man:  Face recognition, face verification, face alignment, etc.
+- :chart_with_downwards_trend:    Detection and interpretation of fraudulent transactions with a machine learning approach using [FastApi](https://fastapi.tiangolo.com/), [scikit-learn](https://scikit-learn.org/stable/index.html), [XGBoost](https://xgboost.ai/), [LIME](https://github.com/marcotcr/lime), [Celery](https://docs.celeryproject.org/en/stable/), [Pandas](https://pandas.pydata.org/), [Numpy](https://numpy.org/).
+- :microscope:    Gathering images from the internet massively using [Selenium](https://www.selenium.dev/), [FastApi](https://fastapi.tiangolo.com/), [Celery](https://docs.celeryproject.org/en/stable/).
+- :man:    Face recognition, face verification, face alignment, etc.
 ****
 #### What did I work on
-- :mag_right: [PackageDNA](https://github.com/Telefonica/packagedna), an open source tool that gives developers, researchers and companies the ability to analyze software packages of different programming languages that are being or will be used in their codes, providing information that allows them to know in advance if this library complies with processes.
-- :newspaper: [DIARIO](https://diario.elevenpaths.com/) scans and analyzes documents in a static way keeping users safe against virus and threats, guaranteeing users and their documents content private.
-- :fireworks: Aldara, a social network intelligence framework that helps analysts extract information from social media interactions.
-
+- :mag_right:   [PackageDNA](https://github.com/Telefonica/packagedna), an open source tool that gives developers, researchers and companies the ability to analyze software packages of different programming languages that are being or will be used in their codes, providing information that allows them to know in advance if this library complies with processes.
+- :newspaper:   [DIARIO](https://diario.elevenpaths.com/) scans and analyzes documents in a static way keeping users safe against virus and threats, guaranteeing users and their documents content private.
+- :fireworks:   Aldara, a social network intelligence framework that helps analysts extract information from social media interactions.
+****
 <samp>📝 Recent blog posts</samp>
 <br />
 

@@ -20,18 +20,18 @@
 <br />
 :es: Spanish
 <br />
-[Cómo engañar a las apps que usan Deep Learning para la detección de melanomas](https://empresas.blogthinkbig.com/como-enganar-apps-deep-learning-deteccion-melanomas/)
-[Las primeras vulnerabilidades oficiales en Machine Learning, así, en general](https://empresas.blogthinkbig.com/primeras-vulnerabilidades-oficiales-machine-learning-general/)
-[Pensando en ataques a WAFs basados en Machine Learning](https://empresas.blogthinkbig.com/pensando-ataques-wafs-basados-machine-learning/)
-[Adversarial Attacks, el enemigo de la inteligencia artificial (II)](https://empresas.blogthinkbig.com/adversarial-attacks-enemigo-inteligencia-artificial-2/)
-[Adversarial Attacks, el enemigo de la inteligencia artificial](https://empresas.blogthinkbig.com/adversarial-attacks-enemigo-inteligencia-artificial/)
+- [Cómo engañar a las apps que usan Deep Learning para la detección de melanomas](https://empresas.blogthinkbig.com/como-enganar-apps-deep-learning-deteccion-melanomas/)
+- [Las primeras vulnerabilidades oficiales en Machine Learning, así, en general](https://empresas.blogthinkbig.com/primeras-vulnerabilidades-oficiales-machine-learning-general/)
+- [Pensando en ataques a WAFs basados en Machine Learning](https://empresas.blogthinkbig.com/pensando-ataques-wafs-basados-machine-learning/)
+- [Adversarial Attacks, el enemigo de la inteligencia artificial (II)](https://empresas.blogthinkbig.com/adversarial-attacks-enemigo-inteligencia-artificial-2/)
+- [Adversarial Attacks, el enemigo de la inteligencia artificial](https://empresas.blogthinkbig.com/adversarial-attacks-enemigo-inteligencia-artificial/)
 <br />
 :es: Spanish Personal blog
 <br />
-[Generación de datos artificiales (Data Augmentation)](https://franspg.wordpress.com/2020/01/27/generacion-de-datos-artificiales-data-augmentation/)
-[Inteligencia artificial para contrarrestar a la inteligencia artificial (DeepFake)](https://franspg.wordpress.com/2020/01/22/inteligencia-artificial-para-contrarrestar-a-la-inteligencia-artificial-deepfake/)
-[Ciencia de datos aplicado a la astrofísica](https://franspg.wordpress.com/2019/11/09/ciencia-de-datos-aplicado-a-la-astrofisica/)
-[Analizando los subtes de Buenos Aires](https://franspg.wordpress.com/2019/06/28/analizando-los-subtes-de-buenos-aires/)
+- [Generación de datos artificiales (Data Augmentation)](https://franspg.wordpress.com/2020/01/27/generacion-de-datos-artificiales-data-augmentation/)
+- [Inteligencia artificial para contrarrestar a la inteligencia artificial (DeepFake)](https://franspg.wordpress.com/2020/01/22/inteligencia-artificial-para-contrarrestar-a-la-inteligencia-artificial-deepfake/)
+- [Ciencia de datos aplicado a la astrofísica](https://franspg.wordpress.com/2019/11/09/ciencia-de-datos-aplicado-a-la-astrofisica/)
+- [Analizando los subtes de Buenos Aires](https://franspg.wordpress.com/2019/06/28/analizando-los-subtes-de-buenos-aires/)
 
 <!--
 

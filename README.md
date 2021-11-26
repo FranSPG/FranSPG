@@ -8,15 +8,26 @@
   <a href="https://www.linkedin.com/in/franco-sebastian-piergallini-guida-42456b63/" target="_blank"><img alt="LinkedIn profile" src="https://img.shields.io/twitter/url?label=Franco%20Piergallini%20Guida&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ffranco-sebastian-piergallini-guida-42456b63%2F"/></a>
 </p>
 
-### 🧑‍💻 I'm currently at [VU Security](https://www.vusecurity.com/en) as a Security Researcher.
-
+### 🧑‍💻 I'm currently at [VU Security](https://www.vusecurity.com/en).
+****
 #### What I'm up to
-- :chart_with_downwards_trend: Detection and interpretation of fraudulent transactions with a machine learning approach using [FastApi](https://fastapi.tiangolo.com/), [scikit-learn](https://scikit-learn.org/stable/index.html), [XGBoost](https://xgboost.ai/), [LIME](https://github.com/marcotcr/lime), [Celery](https://docs.celeryproject.org/en/stable/), [Pandas](https://pandas.pydata.org/), [Numpy](https://numpy.org/).
-- :microscope: Gathering images from the internet massively using [Selenium](https://www.selenium.dev/), [FastApi](https://fastapi.tiangolo.com/), [Celery](https://docs.celeryproject.org/en/stable/).
-- :man: Face recognition, face verification, face alignment, etc.
+- :chart_with_downwards_trend:  Detection and interpretation of fraudulent transactions with a machine learning approach using [FastApi](https://fastapi.tiangolo.com/), [scikit-learn](https://scikit-learn.org/stable/index.html), [XGBoost](https://xgboost.ai/), [LIME](https://github.com/marcotcr/lime), [Celery](https://docs.celeryproject.org/en/stable/), [Pandas](https://pandas.pydata.org/), [Numpy](https://numpy.org/).
+- :microscope:  Gathering images from the internet massively using [Selenium](https://www.selenium.dev/), [FastApi](https://fastapi.tiangolo.com/), [Celery](https://docs.celeryproject.org/en/stable/).
+- :man:  Face recognition, face verification, face alignment, etc.
+****
+#### Blog posts
+
 
 
 <!--
+
+
+https://github.com/markdown-templates/markdown-emojis/blob/master/README.md
+https://shields.io/category/social
+
+https://github.com/guilatrova/guilatrova
+https://github.com/dunglas#-check-out-what-im-currently-working-on
+https://github.com/shivammathur/shivammathur/blob/master/README.md
 **FranSPG/FranSPG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

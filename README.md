@@ -16,9 +16,16 @@
 - :man:    Face recognition, face verification, face alignment, etc.
 ****
 #### What did I work on
+_**ElevenPaths, Telefónica Tech**_
 - :mag_right:   [PackageDNA](https://github.com/Telefonica/packagedna), an open source tool that gives developers, researchers and companies the ability to analyze software packages of different programming languages that are being or will be used in their codes, providing information that allows them to know in advance if this library complies with processes.
 - :newspaper:   [DIARIO](https://diario.elevenpaths.com/) scans and analyzes documents in a static way keeping users safe against virus and threats, guaranteeing users and their documents content private.
 - :fireworks:   Aldara, a social network intelligence framework that helps analysts extract information from social media interactions.
+
+_**LatinMalls**_
+- :dollar: Engine for AdWords accounts automatization and bids budget optimization.
+- :wrench: real-time gathering tool for Google Ads API.
+- :speech_balloon: NLP to block and generates new keywords for the main engine.
+ 
 ****
 <samp>📝 Recent blog posts</samp>
 <br />

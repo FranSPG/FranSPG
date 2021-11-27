@@ -28,7 +28,7 @@ _**LatinMalls**_
 
 _**Universidad de Palermo**_
 
-:recycle: [Weather sensor fault detection in meteorological masts](https://ieeexplore.ieee.org/document/9505429)
+- :recycle: [Weather sensor fault detection in meteorological masts](https://ieeexplore.ieee.org/document/9505429)
 
 
 ****

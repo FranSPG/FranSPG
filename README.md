@@ -13,7 +13,7 @@
 #### What I'm working on
 - :chart_with_downwards_trend:    Detection and interpretation of fraudulent transactions with a machine learning approach using [FastApi](https://fastapi.tiangolo.com/), [scikit-learn](https://scikit-learn.org/stable/index.html), [XGBoost](https://xgboost.ai/), [LIME](https://github.com/marcotcr/lime), [Celery](https://docs.celeryproject.org/en/stable/), [Pandas](https://pandas.pydata.org/), [Numpy](https://numpy.org/).
 - :microscope:    Gathering images from the internet massively using [Selenium](https://www.selenium.dev/), [FastApi](https://fastapi.tiangolo.com/), [Celery](https://docs.celeryproject.org/en/stable/).
-- :man:    Face recognition, face verification, face alignment, etc.
+- :man:    Face recognition, face verification, face alignment, etc. Using [Azure Cognitive Services](https://azure.microsoft.com/en-us/services/cognitive-services/) and [DeepFace](https://github.com/serengil/deepface).
 ****
 #### What did I work on
 _**ElevenPaths, Telefónica Tech**_

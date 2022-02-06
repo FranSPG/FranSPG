@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/franco-sebastian-piergallini-guida-42456b63/" target="_blank"><img alt="LinkedIn profile" src="https://img.shields.io/twitter/url?label=Franco%20Piergallini%20Guida&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ffranco-sebastian-piergallini-guida-42456b63%2F"/></a>
 </p>
 
-### :shipit: I'm currently at [VU Security](https://www.vusecurity.com/en).
+### :shipit: I'm currently looking for a new job.
 ****
 #### What I'm working on
 - :chart_with_downwards_trend:    Detection and interpretation of fraudulent transactions with a machine learning approach using [FastApi](https://fastapi.tiangolo.com/), [scikit-learn](https://scikit-learn.org/stable/index.html), [XGBoost](https://xgboost.ai/), [LIME](https://github.com/marcotcr/lime), [Celery](https://docs.celeryproject.org/en/stable/), [Pandas](https://pandas.pydata.org/), [Numpy](https://numpy.org/).

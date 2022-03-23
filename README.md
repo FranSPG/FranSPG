@@ -1,4 +1,4 @@
-## <samp>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Franco Piergallini Guida. </samp>
+## <samp>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Franco Piergallini Guida. I'm from 🇦🇷 living in 🇮🇪.</samp>
 
 
 <p align="center">
@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/franco-sebastian-piergallini-guida-42456b63/" target="_blank"><img alt="LinkedIn profile" src="https://img.shields.io/twitter/url?label=Franco%20Piergallini%20Guida&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ffranco-sebastian-piergallini-guida-42456b63%2F"/></a>
 </p>
 
-### :shipit:
+### :shipit: I'm a senior machine learning engineer, currently working at [EVERYANGLE](https://www.everyangle.ie/)
 ****
 #### What I'm working on
 - 

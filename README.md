@@ -9,9 +9,11 @@
 </p>
 
 ### :shipit: I'm a senior machine learning engineer, currently working at [EVERYANGLE](https://www.everyangle.ie/)
-****
-#### What I'm working on
-- 
+
+
+[//]: # (#### What I'm working on)
+
+[//]: # (- )
 
 ****
 #### What did I work on

@@ -21,6 +21,7 @@ _**VU Security**_
 - :chart_with_downwards_trend:    Detection and interpretation of fraudulent transactions with a machine learning approach using [FastApi](https://fastapi.tiangolo.com/), [scikit-learn](https://scikit-learn.org/stable/index.html), [XGBoost](https://xgboost.ai/), [LIME](https://github.com/marcotcr/lime), [Celery](https://docs.celeryproject.org/en/stable/), [Pandas](https://pandas.pydata.org/), [Numpy](https://numpy.org/).
 - :microscope:    Gathering images from the internet massively using [Selenium](https://www.selenium.dev/), [FastApi](https://fastapi.tiangolo.com/), [Celery](https://docs.celeryproject.org/en/stable/).
 - :man:    Face recognition, face verification, face alignment, etc. Using [Azure Cognitive Services](https://azure.microsoft.com/en-us/services/cognitive-services/), [DeepFace](https://github.com/serengil/deepface), among others.
+
 _**ElevenPaths, Telefónica Tech**_
 - :mag_right:   [PackageDNA](https://github.com/Telefonica/packagedna), an open source tool that gives developers, researchers and companies the ability to analyze software packages of different programming languages that are being or will be used in their codes, providing information that allows them to know in advance if this library complies with processes.
 - :newspaper:   [DIARIO](https://diario.elevenpaths.com/) scans and analyzes documents in a static way keeping users safe against virus and threats, guaranteeing users and their documents content private.

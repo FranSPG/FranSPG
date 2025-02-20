@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/franco-sebastian-piergallini-guida-42456b63/" target="_blank"><img alt="LinkedIn profile" src="https://img.shields.io/twitter/url?label=Franco%20Piergallini%20Guida&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ffranco-sebastian-piergallini-guida-42456b63%2F"/></a>
 </p>
 
-### :shipit: I'm a senior machine learning engineer, currently working at [EVERYANGLE](https://www.everyangle.ie/)
+### :shipit: I'm a senior machine learning engineer, currently working at 
 
 
 [//]: # (#### What I'm working on)
@@ -17,22 +17,25 @@
 
 ****
 #### What did I work on
-_**VU Security**_
+_**[EVERYANGLE](https://www.everyangle.ie/)**_
+
+
+_**[VU Security](https://www.vusecurity.com/en)**_
 - :chart_with_downwards_trend:    Detection and interpretation of fraudulent transactions with a machine learning approach using [FastApi](https://fastapi.tiangolo.com/), [scikit-learn](https://scikit-learn.org/stable/index.html), [XGBoost](https://xgboost.ai/), [LIME](https://github.com/marcotcr/lime), [Celery](https://docs.celeryproject.org/en/stable/), [Pandas](https://pandas.pydata.org/), [Numpy](https://numpy.org/).
 - :microscope:    Gathering images from the internet massively using [Selenium](https://www.selenium.dev/), [FastApi](https://fastapi.tiangolo.com/), [Celery](https://docs.celeryproject.org/en/stable/).
 - :man:    Face recognition, face verification, face alignment, etc. Using [Azure Cognitive Services](https://azure.microsoft.com/en-us/services/cognitive-services/), [DeepFace](https://github.com/serengil/deepface), among others.
 
-_**ElevenPaths, Telefónica Tech**_
+_**[ElevenPaths, Telefónica Tech](https://cybersecuritycloud.telefonicatech.com)**_
 - :mag_right:   [PackageDNA](https://github.com/Telefonica/packagedna), an open source tool that gives developers, researchers and companies the ability to analyze software packages of different programming languages that are being or will be used in their codes, providing information that allows them to know in advance if this library complies with processes.
 - :newspaper:   [DIARIO](https://diario.elevenpaths.com/) scans and analyzes documents in a static way keeping users safe against virus and threats, guaranteeing users and their documents content private.
 - :fireworks:   Aldara, a social network intelligence framework that helps analysts extract information from social media interactions.
 
-_**LatinMalls**_
+_**[LatinMalls](https://latinmalls.com/es/)**_
 - :dollar: Engine for AdWords accounts automatization and bids budget optimization.
 - :wrench: real-time gathering tool for Google Ads API.
 - :speech_balloon: NLP to block and generates new keywords for the main engine.
 
-_**Universidad de Palermo**_
+_**[Universidad de Palermo](https://www.palermo.edu)**_
 
 - :recycle: [Weather sensor fault detection in meteorological masts](https://ieeexplore.ieee.org/document/9505429)
 

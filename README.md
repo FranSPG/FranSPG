@@ -75,10 +75,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=FranSPG&show_icons=true&theme=radical&count_private=true&hide=contribs" alt="GitHub Stats">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranSPG&layout=compact&theme=radical" alt="Top Languages">
-</p>
-
 ---
 
 ### 📫 Let's Connect!
